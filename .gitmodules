@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "GHRexplore"]
+	path = GHRexplore
+	url = https://github.com/cran/GHRexplore
+[submodule "GHRmodel"]
+	path = GHRmodel
+	url = https://github.com/cran/GHRmodel
+[submodule "clim4health"]
+	path = clim4health
+	url = https://github.com/cran/clim4health
